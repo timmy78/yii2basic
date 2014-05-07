@@ -15,7 +15,7 @@
 
     <testsuites>
         <testsuite name="Project Test Suite">
-            <directory>../tests/unit/models</directory>
+            <directory>../tests/unit/models/*</directory>
         </testsuite>
     </testsuites>
 
